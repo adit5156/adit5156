@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Aditya!
 
-<!--
-**adit5156/adit5156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack:
+• Frontend: HTML, CSS, JavaScript, React ⚛️<br/>
+• Backend: Node.js, Express.js 🌐<br/>
+• Databases: MongoDB, MySQL 🗄️<br/>
+• Version Control: Git, GitHub 🛠️<br/>
+• Tools: VS Code, Postman, Hoppscotch 🧰<br/>
+### 🚀 What I'm working on:
+• 365-Day Coding Challenge: Sharpening my problem-solving skills every day! 🧑‍💻<br/>
+• Web Development: Building responsive, dynamic websites and applications 🌍<br/>
+### 🌱 Currently learning:
+• Advanced JavaScript and React ⚙️<br/>
+• Backend optimizations and API development 🚀<br/>
+### 💡 Looking to collaborate on:
+• Open-source projects 👐<br/>
+• Full-stack web apps 🔥<br/>
+### 📫 Let’s Connect:
+LinkedIn: [Aditya Singh](https://www.linkedin.com/in/aditya-singh-0b0315303/)<br/>
+Email: adityasinghmpc2@gmail.com<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adit5156&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
