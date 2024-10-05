@@ -19,4 +19,6 @@
 LinkedIn: [Aditya Singh](https://www.linkedin.com/in/aditya-singh-0b0315303/)<br/>
 Email: adityasinghmpc2@gmail.com<br/>
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adit5156&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=adit5156&show_icons=true&theme=radical" align="left" width="49%" />
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit5156&layout=compact" align="right" width="44%" />
